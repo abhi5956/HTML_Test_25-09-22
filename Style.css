@@ -1,0 +1,70 @@
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-brand {
+  color: rgb(9, 236, 9);
+  
+}
+
+.get-btn {
+  padding: 1% 0%;
+}
+
+.btn {
+  color: rgb(9, 236, 9);
+}
+
+.contact-heading {
+  max-width: 100%;
+}
+
+.contact-heading h1 {
+  font-weight: bold;
+}
+
+.logo-section {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  border-radius: 50%;
+  background-color: rgb(151, 144, 114);
+  padding: 5px;
+}
+
+.left-section {
+  border: none;
+  border-radius: 0%;
+  border-top: 2px solid rgb(78, 189, 78);
+  border-bottom: 2px solid rgb(78, 189, 78);
+}
+
+.right-section {
+  border: none;
+  border-radius: 0%;
+  border-top: 2px solid rgb(78, 189, 78);
+  border-bottom: 2px solid rgb(78, 189, 78);
+}
+
+.left-section .card {
+  border: none;
+}
+
+.content-second-section {
+  width: auto;
+  padding-bottom: 20px;
+}
+
+.right-section .right-section-btn {
+  background-color: green;
+  border: none;
+  color: white;
+}
+
+.contact-section {
+  color: rgb(9, 236, 9) !important;
+  cursor: pointer;
+}
